@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce14b507-d43e-4fee-b964-f579e9083c6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/amplify/.config/project-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/auth/notesapp33d1e6f3/cli-inputs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/backend-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/tags.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/types/amplify-dependent-resources-ref.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/team-provider-info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphql/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphql/mutations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphql/queries.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphql/queries.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphql/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphql/schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphql/subscriptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphql/subscriptions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +66,7 @@
       <workItem from="1645355212717" duration="2511000" />
       <workItem from="1645475996304" duration="213000" />
       <workItem from="1645709936208" duration="615000" />
-      <workItem from="1645725018448" duration="1958000" />
+      <workItem from="1645725018448" duration="4161000" />
     </task>
     <servers />
   </component>
